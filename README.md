@@ -3,8 +3,7 @@
 ## Laravel + Vue 3 + Inertia.js Application
 
 This is a full-stack web application built using **Laravel** as the backend framework, **Vue 3** as the frontend
-framework, and **Inertia.js** to bridge the two. The project uses **Vite** as the build tool for the frontend, *
-*TailwindCSS** for styling, and **TypeScript** to improve type safety in the frontend code.
+framework, and **Inertia.js** to bridge the two. The project uses **Vite** as the build tool for the frontend, **TailwindCSS** for styling, and **TypeScript** to improve type safety in the frontend code.
 
 ## Table of Contents
 
