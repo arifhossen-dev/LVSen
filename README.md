@@ -12,8 +12,6 @@ framework, and **Inertia.js** to bridge the two. The project uses **Vite** as th
 - [Installation](#installation)
 - [Running the Application](#running-the-application)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
