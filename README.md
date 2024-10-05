@@ -110,6 +110,7 @@ And in another terminal window, run the Vite development server:
 ```bash
 npm run dev
 ```
+**You can use Laravel Hard**, and your life will be easier.
 
 The application should now be available at `http://localhost:8000`.
 
